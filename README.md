@@ -1,6 +1,6 @@
 # lista_contato_db
 
-A new Flutter project.
+Um novo projeto Flutter basedo no curso do Helio Kamakawa
 
 ## Getting Started
 
